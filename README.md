@@ -23,7 +23,7 @@ This repository contains my scripts, scenes and project settings only. The follo
 | Asset | Folder it belongs in | Needed for |
 | --- | --- | --- |
 | ZenFulcrum *Tracks!* (ZF Track) | `Assets/ZFTrack` | **Required to compile.** Six scripts (`TrackSetup.cs`, `RandomTrackSetup.cs`, `TrackVisibility.cs`, `TrackVisibilitySwitch.cs`, `PlayerScript.cs`, `Switcher.cs`) use `ZenFulcrum.Track`. |
-| Environment, animal and spaceship assets from the PhD project this work extends | `Assets/Graphics` | Scene visuals and ambient animal behaviour |
+| Environment, animal and spaceship assets from Luca Bondin's PhD project, which this work extends | `Assets/Graphics` | Scene visuals and ambient animal behaviour |
 | AurynSky *Gems Ultimate Pack* | `Assets/AurynSky` | Gem visuals |
 | Nomads Music *Soundspack 05 (8bit SFX 01 — Shooting Game) Lite* | `Assets/Nomads Music` | Sound effects |
 | Game Sound Solutions *Score and Times* | `Assets/Score and Times - Game Sound Solutions` | Sound effects |
@@ -43,7 +43,7 @@ Import the Unity Asset Store packs through the Package Manager (**My Assets**) i
 
 ## Acknowledgements
 
-This project extends the future-work direction of an earlier PhD project, whose environment and animal assets it used.
+This project builds on the future-work direction of Luca Bondin's PhD research, and used environment and animal assets from his project.
 
 ## License
 
